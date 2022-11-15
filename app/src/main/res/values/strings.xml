@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Navigation Drawer</string>
+    <!-- to toggle the open close button of the navigation drawer -->
+    <string name="nav_open">Open</string>
+    <string name="nav_close">Close</string>
+    <string name="user_name">Abhinay Rao</string>
+    <string name="location">Kukkatpalli</string>
+    <string name="online_consult">Unlimited Online \nConsultation</string>
+    <string name="consult_fees"> "Start At 349"</string>
+
+</resources>
