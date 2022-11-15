@@ -62,14 +62,15 @@
                                 android:layout_height="wrap_content"
                                 android:paddingTop="33dp"
                                 android:paddingBottom="6dp"
-                                android:text="@String/online_consult"
+                                android:text="Unlimited Online \nConsultation"
+                                tools:ignore="HardcodedText"
                                 android:textColor="@color/blue"
                                 />
 
                             <TextView
                                 android:layout_width="wrap_content"
                                 android:layout_height="wrap_content"
-                                android:text="@String/consult_fees"
+                                android:text="Start At 349"
                                 android:textColor="@color/black" />
                         </LinearLayout>
 

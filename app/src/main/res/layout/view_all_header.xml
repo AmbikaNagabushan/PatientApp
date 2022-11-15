@@ -16,8 +16,8 @@
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:paddingEnd="179dp"
-            android:text="@{title}"
+            android:paddingEnd="186dp"
+            android:text="Top Doctors"
             android:textColor="@color/dark_blue"
             android:textStyle="bold" />
 
